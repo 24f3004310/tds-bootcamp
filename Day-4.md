@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-4 ---
-I already knew ...
+I already knew about Chrome DevTools and a little bit about APIs.
 --- 
 
 ## Day-4 Checklist
@@ -17,11 +17,11 @@ I already knew ...
 - [x] I can test my API using the Swagger UI at `/docs` and via `curl` from the terminal
 
 --- After Day-4 ---
-I learned these things as well, apart from the checklist ...
+I learned about URL structure as well, apart from the checklist.
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-This is my feedback ...
+The API explanation part felt a bit confusing.
 ---
 
 ---
