@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-1 ---
-I already knew ...
+I already knew Python and a little bit about terminal, and I had a GitHub account.
 --- 
 
 ## Day-1 Checklist
@@ -19,11 +19,11 @@ I already knew ...
 - [x] I have a GitHub account and have created the `tds-bootcamp` repository
 
 --- After Day-1 ---
-I learned these things as well, apart from the checklist ...
+I learned that Linux treats paths differently than Windows (using forward slashes / instead of backslashes \\). It was also cool to see how fast uv installs packages compared to regular pip.
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-This is my feedback ...
+The pace was good and the explanations made a lot of sense.
 ---
 
 ---
