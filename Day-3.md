@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-3 ---
-I already knew ...
+I used to always use pip install package_name blindly without realizing it was cluttering my global system environment.
 --- 
 
 ## Day-3 Checklist
@@ -17,11 +17,11 @@ I already knew ...
 - [x] I know the difference between a `.py` script and a `.ipynb` notebook, and when to use each
 
 --- After Day-3 ---
-I learned these things as well, apart from the checklist ...
+I learned various VS Code shortcuts as well, apart from the checklist.
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-This is my feedback ...
+The comparisons were good.
 ---
 
 ---
