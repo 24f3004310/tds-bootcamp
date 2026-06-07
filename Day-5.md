@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-5 ---
-I already knew ...
+I was always used to upload files to GitHub by dragging and dropping them into the browser.
 --- 
 
 ## Day-5 Checklist
@@ -19,11 +19,11 @@ I already knew ...
 - [x] I can write a meaningful commit message (not "fixed stuff" or "final.py")
 
 --- After Day-5 ---
-I learned these things as well, apart from the checklist ...
+I learned how the Git staging area works as a middle-ground before saving.
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-This is my feedback ...
+The explanations were good.
 ---
 
 ---
