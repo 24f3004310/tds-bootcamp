@@ -19,7 +19,7 @@ I already knew Python and a little bit about terminal, and I had a GitHub accoun
 - [x] I have a GitHub account and have created the `tds-bootcamp` repository
 
 --- After Day-1 ---
-I learned that Linux treats paths differently than Windows (using forward slashes / instead of backslashes \\). It was also cool to see how fast uv installs packages compared to regular pip.
+I learned that Linux treats paths differently than Windows (using forward slashes / instead of backslashes \ ). It was also cool to see how fast uv installs packages compared to regular pip.
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
