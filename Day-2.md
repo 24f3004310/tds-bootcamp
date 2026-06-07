@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-2 ---
-I already knew ...
+I had heard of environment variables before and terminal shortcuts like pipes.
 --- 
 
 ## Day-2 Checklist
@@ -16,11 +16,11 @@ I already knew ...
 - [x] I know the difference between `export VAR=value` (available to child processes) and just `VAR=value` (shell-local)
 
 --- After Day-2 ---
-I learned these things as well, apart from the checklist ...
+I learned exit codes as well, apart from the checklist.
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-This is my feedback ...
+The explanations were good and helped me understand so many things.
 ---
 
 ---
