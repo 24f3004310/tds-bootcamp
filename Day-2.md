@@ -16,7 +16,7 @@ I had heard of environment variables before and terminal shortcuts like pipes.
 - [x] I know the difference between `export VAR=value` (available to child processes) and just `VAR=value` (shell-local)
 
 --- After Day-2 ---
-I learned exit codes as well, apart from the checklist.
+I learned about exit codes as well, apart from the checklist.
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
